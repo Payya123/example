@@ -1,2 +1,2 @@
 print("hello world")
-print("This is a demo Jenkins Git integration script.")
+print("this is test for git jenkins integration")
